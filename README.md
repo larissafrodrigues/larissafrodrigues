@@ -1,4 +1,4 @@
-### Hi, my name is Larissa. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi, my name is Larissa. 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=larissafrodrigues&show_icons=true&theme=dracula)
